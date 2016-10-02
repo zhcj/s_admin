@@ -244,7 +244,7 @@ return [
         // 验证成功后是否重置
         'reset'    => true
     ],
-    "PUBLIC"=>"/public/static",
+    "PUBLIC"=>"/static",
     "DB_PREFIX"=>"darling_",
     "SECRET"=>"haveaniceday",
     //日志的解释配置
